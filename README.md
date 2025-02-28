@@ -86,4 +86,11 @@ Authentication: Firebase Auth / OAuth / JWT
 # OUTPUT :
 
 
+![Image](https://github.com/user-attachments/assets/a74409ea-b9b8-4df8-9118-e09e68384f0d)
+![Image](https://github.com/user-attachments/assets/8d611bd6-4360-4829-b813-e622309c1f84)
+![Image](https://github.com/user-attachments/assets/2adfee80-ba78-4dec-a84c-ce320e7f983a)
+![Image](https://github.com/user-attachments/assets/d629c973-bcdb-4396-a166-8b7d6f6bd836)
+![Image](https://github.com/user-attachments/assets/3c91b639-fd3d-4795-a273-69c0421f1293)
+
+
 
